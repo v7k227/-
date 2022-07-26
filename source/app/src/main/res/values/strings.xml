@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FRM</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="One">Page: One</string>
+    <string name="Two">Page: Two</string>
+    <string name="Three">Page: Three</string>
+    <string name="Four">Page: Four</string>
+    <string name="Five">Page: Five</string>
+</resources>
