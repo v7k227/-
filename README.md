@@ -1,5 +1,6 @@
-# 芬多精
-芬多精 is an android app for protecting climber to avoid danger. The key idea is how to keep savity when there are no any network in mountain.
+# Phytoncine
+
+Phytoncine is an android app for protecting climber to avoid danger. The key idea is how to keep savity when there are no any network in mountain.
 
 ## How it works ##
 - Offline Map
